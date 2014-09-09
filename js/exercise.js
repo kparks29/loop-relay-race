@@ -22,6 +22,7 @@ var sub = 100;
 var start = 1;
 
 
+
 /**
  * Question 3
  * Using a for loop, programatically find the largest number in the array.
@@ -29,6 +30,8 @@ var start = 1;
  */
 
 var someNums = [3, 1, 88, -1, 33, 96, 35, 12, 72];
+var largest_num = someNums[0];
+
 
 
 /**
@@ -63,5 +66,4 @@ var totalDuplicates = 0;
 
 var numbers = [3, 7, 1, 3, 23, 7, 98, 26, 1];
 var totalUniques = 0;
-
 
