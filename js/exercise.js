@@ -11,7 +11,7 @@
  */
 
    var myArray = [];
-
+   
 /**
  * Question 2
  * Using a while loop, subtract the numbers 1 through 10 from 100
@@ -29,7 +29,6 @@ var start = 1;
  */
 
 var someNums = [3, 1, 88, -1, 33, 96, 35, 12, 72];
-var largest_num = someNums[0];
 
 
 /**
@@ -39,6 +38,7 @@ var largest_num = someNums[0];
  */
 
 var small = someNums[0];
+
 
 /**
  * Question 5
@@ -51,6 +51,8 @@ var firstArray = ['peaches', 'apples', 'pears', 'oranges', 'plums', 'water melon
 var secondArray = ['blueberries', 'water melon', 'tomatoes', 'apples', 'plums', 'oranges', 'cantaloupe'];
 var totalDuplicates = 0;
 
+
+
 /**
  * Question 6 
  * Count the number of unique elements are in the array. In other words, in the 
@@ -61,4 +63,5 @@ var totalDuplicates = 0;
 
 var numbers = [3, 7, 1, 3, 23, 7, 98, 26, 1];
 var totalUniques = 0;
+
 
